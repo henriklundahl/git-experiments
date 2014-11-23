@@ -7,4 +7,5 @@ git-experiments
 * Change 4 - branch-2
 * Change 5 - branch-2
 * Change 6 - branch-3
+* Change 7 - branch-3
 
